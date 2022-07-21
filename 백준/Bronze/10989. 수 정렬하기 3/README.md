@@ -10,3 +10,7 @@
 
 정렬(sorting)
 
+--- 
+## 배운 점
+![image](https://user-images.githubusercontent.com/100677209/180139842-928d0357-0e10-40e4-b2d3-692b3c3656e6.png)
+
